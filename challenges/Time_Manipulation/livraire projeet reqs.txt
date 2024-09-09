@@ -1,0 +1,9 @@
+# Requirements
+
+
+1 Ajouter   
+    1 ajouter une seule fois : 
+    2 ajouter plusieurs fois : 
+
+2 Afficher
+    
